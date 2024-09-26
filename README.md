@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «Unit-тестирование»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/5wgxc14uwljfih2y?svg=true)](https://ci.appveyor.com/project/ilyapatis24/js-clearfunctions)
+
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
 **Важно**: ESLint не должен выдавать ошибок.

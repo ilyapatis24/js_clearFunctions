@@ -1,4 +1,4 @@
-import health from '../src/js/health';
+import health from '../health';
 
 test('should healthy #1', () => {
   expect(health({name: 'Маг', health: 90})).toBe("healthy");
